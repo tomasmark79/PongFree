@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/13107b46-b82a-4ec1-8b89-7ea7b8fb81ee
 
 ![alt text](assets/logo.png)
 
-DotName C++ Template – A modern C++ project template powered by CMake. 🚀 It offers a clean structure, pre-configured build settings, and full support for modern C++ standards. Perfect for maintainable and scalable projects. 🛠️
+**[DotName C++ Template](https://github.com/tomasmark79/DotNameCpp)** – Build faster and smarter with this CMake-based project template. ⚡ Featuring a modular design, pre-configured settings, and best practices for modern C++ development. 🌟  
 
 ## License
 
